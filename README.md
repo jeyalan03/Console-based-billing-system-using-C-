@@ -62,16 +62,16 @@ A text-based application designed to manage billing operations for a restaurant 
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/Main%20menu.png)
+![Main Menu](Screenshots/Main%20menu.png)
 
 ### Admin: Add New Item
-![Admin Add Food](screenshots/Admin%20add%20new%20foods.png)
+![Admin Add Food](Screenshots/Admin%20add%20new%20foods.png)
 
 ### Buyer: View Menu
-![Buyer View Menu](screenshots/Buyer%20view%20foods%20list.png)
+![Buyer View Menu](Screenshots/Buyer%20view%20foods%20list.png)
 
 ### Buyer: Place Order
-![Buyer Order](screenshots/Buyer%20order%20foods.png)
+![Buyer Order](Screenshots/Buyer%20order%20foods.png)
 
 
 ## File Structure

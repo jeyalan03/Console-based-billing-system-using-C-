@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733033242 source:c:\users\user\documents\fip\billing sysytem\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
+1734280205 source:c:\users\user\documents\fip (mealhut billing system)\meal hut billing sysytem\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+

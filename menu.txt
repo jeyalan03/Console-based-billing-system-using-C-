@@ -6,3 +6,4 @@
 116 Cereal| 0.69
 117 Coffee| 0.5
 118 Tea| 0.75
+452 Fish Pastry| 4

@@ -57,6 +57,23 @@ A text-based application designed to manage billing operations for a restaurant 
    - Choose to add more items or finish.
    - The system will display the final bill on the screen and save the record.
 
+
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/Main%20menu.png)
+
+### Admin: Add New Item
+![Admin Add Food](screenshots/Admin%20add%20new%20foods.png)
+
+### Buyer: View Menu
+![Buyer View Menu](screenshots/Buyer%20view%20foods%20list.png)
+
+### Buyer: Place Order
+![Buyer Order](screenshots/Buyer%20order%20foods.png)
+
+
 ## File Structure
 - `main.cpp`: The main source code file.
 - `menu.txt`: Database file storing menu items (ItemNo Name| Price).

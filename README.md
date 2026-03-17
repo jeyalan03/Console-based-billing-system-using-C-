@@ -55,7 +55,17 @@ A high-quality, object-oriented C++ application designed for professional billin
 
 ## 📸 Screenshots
 
-*(Ensure your `Screenshots` folder is updated with the latest UI for the best presentation!)*
+### Main Menu
+![Main Menu](Screenshots/Strating%20main%20page.png)
+
+### Administrator Dashboard
+![Admin Dashboard](Screenshots/Admin%20options%20(login%20after).png)
+
+### Customer Menu
+![Customer Menu](Screenshots/Customer%20section%20(foods%20list%20shows%20).png)
+
+### Receipt Generation
+![Receipt](Screenshots/Order%20food%20and%20get%20bill.png)
 
 ## 📂 File Structure
 - `main.cpp`: The core Object-Oriented source code.

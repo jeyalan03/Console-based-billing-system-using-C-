@@ -41,7 +41,7 @@ A high-quality, object-oriented C++ application designed for professional billin
    - Windows: `./billing_system.exe`
    - Linux/Mac: `./billing_system`
 
-## 📖 Usage
+## Usage
 
 ### Administrator Access
 - Select **1. Administrator Login** from the main menu.
@@ -73,5 +73,4 @@ A high-quality, object-oriented C++ application designed for professional billin
 - `order.txt`: Historical log of all finalized receipts.
 - `Billing Sysytem.cbp`: Optimized project file for Code::Blocks.
 
----
-Developed with ❤️ to provide a perfect billing solution.
+

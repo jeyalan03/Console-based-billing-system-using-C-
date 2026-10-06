@@ -2,7 +2,7 @@
 
 A high-quality, object-oriented C++ application designed for professional billing operations in restaurants or cafes. This system features a secure administrator dashboard, dynamic menu management, and a professional receipt generation system.
 
-## 🚀 Key Features
+## Key Features
 
 - **Object-Oriented Architecture**: Built with modular classes (`MenuManager`, `OrderManager`, `AdminSystem`) for high scalability and clean code.
 - **Secure Administrator Module**:
@@ -20,12 +20,12 @@ A high-quality, object-oriented C++ application designed for professional billin
   - **Menu**: Persistently stored in and loaded from `menu.txt`.
   - **History**: Full transaction logs maintained in `order.txt`.
 
-## 🛠 Prerequisites
+## Prerequisites
 
 - A C++11 (or higher) compatible compiler (e.g., GCC/MinGW).
 - [Code::Blocks IDE](http://www.codeblocks.org/) (Recommended).
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Option 1: Using Code::Blocks (Recommended)
 1. Open `Billing Sysytem.cbp` in Code::Blocks.
@@ -53,7 +53,7 @@ A high-quality, object-oriented C++ application designed for professional billin
 - Browse the menu and enter the **Item Number** and **Quantity**.
 - Complete the order to generate a professional receipt.
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Menu
 ![Main Menu](Screenshots/Strating%20main%20page.png)
@@ -67,7 +67,7 @@ A high-quality, object-oriented C++ application designed for professional billin
 ### Receipt Generation
 ![Receipt](Screenshots/Order%20food%20and%20get%20bill.png)
 
-## 📂 File Structure
+## File Structure
 - `main.cpp`: The core Object-Oriented source code.
 - `menu.txt`: Dynamic database for menu items.
 - `order.txt`: Historical log of all finalized receipts.
